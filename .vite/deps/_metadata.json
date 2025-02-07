@@ -1,0 +1,61 @@
+{
+  "hash": "51d9cf06",
+  "configHash": "8efa24fc",
+  "lockfileHash": "e5c8972c",
+  "browserHash": "bf2da624",
+  "optimized": {
+    "@mui/icons-material": {
+      "src": "../../node_modules/@mui/icons-material/esm/index.js",
+      "file": "@mui_icons-material.js",
+      "fileHash": "0e03b5fc",
+      "needsInterop": false
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "cebc2361",
+      "needsInterop": false
+    },
+    "@mui/material/styles": {
+      "src": "../../node_modules/@mui/material/styles/index.js",
+      "file": "@mui_material_styles.js",
+      "fileHash": "87ba511a",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "44607d66",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "c3cee928",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "abf15262",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-GIN7ASVJ": {
+      "file": "chunk-GIN7ASVJ.js"
+    },
+    "chunk-VZNCP6GW": {
+      "file": "chunk-VZNCP6GW.js"
+    },
+    "chunk-BW6RS3E2": {
+      "file": "chunk-BW6RS3E2.js"
+    },
+    "chunk-5AR7P7EP": {
+      "file": "chunk-5AR7P7EP.js"
+    },
+    "chunk-AY6LENDD": {
+      "file": "chunk-AY6LENDD.js"
+    }
+  }
+}
